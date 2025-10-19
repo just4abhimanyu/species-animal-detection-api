@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+.env/
+
+# Java
+target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Docker
+*.log
+*.pid
